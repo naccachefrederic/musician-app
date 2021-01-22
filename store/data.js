@@ -18,6 +18,12 @@ module.exports = {
     genre: 'ROCK',
   },
 
+  mccartney: {
+    firstName: 'John',
+    lastName: 'Lennon',
+    genre: 'ROCK',
+  },
+
   hendrix: {
     firstName: 'Jimi',
     lastName: 'Hendrix',
